@@ -12,9 +12,9 @@
 
 Hi, I'm Shivam Kaushik, a passionate self-taught Data Scientist.
 
-<!-- - 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat) -->
-
 - 🌱 I’m currently learning Stats.
+- [LDA vs PCA](https://github.com/mythrex/PCA-vs-LDA/blob/master/LDA.ipynb)
+- [OMR Scanner](https://github.com/mythrex/OMR-Scanner)
 
 **Languages and Tools:**
 
