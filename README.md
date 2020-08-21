@@ -9,6 +9,10 @@
 <a href="https://dev.to/mythrex">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shivam Kaushik's DEV Profile" width="21px" style="margin-right: 10px;">
 </a>
+<a href="https://medium.com/@shivam.kaushik73">
+  <img src="https://image.flaticon.com/icons/svg/2111/2111505.svg" alt="Medium Profile" width="21px" style="margin-right: 10px;">
+</a>
+<!--  -->
 
 <br />
 <br />
