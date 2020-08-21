@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/shivamkaushik73/">
   <img target="_vblank" align="left" alt="Shivam Kaushik | LinkedIn" width="21px" style="margin-right: 10px;" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 </a>
+<a href="https://dev.to/mythrex">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shivam Kaushik's DEV Profile" width="21px" style="margin-right: 10px;">
+</a>
 
 <br />
 <br />
