@@ -19,7 +19,11 @@
 
 Hi, I'm Shivam Kaushik, a passionate self-taught Data Scientist.
 
-- 🌱 I’m currently learning Stats.
+- 🌱 I’m a reseach engineer.
+- I work on computer vision and deep learning algorithms.
+- [Intuitive Explanation of Differentiable Architecture Search (DARTS)](https://towardsdatascience.com/intuitive-explanation-of-differentiable-architecture-search-darts-692bdadcc69c?source=email-396d46fdd644--writer.postDistributed&sk=1fa1479fd856aa45de27be35abcb017c)
+- [Dreaming over text!](https://towardsdatascience.com/dreaming-over-text-f6745c829cee)
+- [Internship experience at Space Application Center(SAC), ISRO](https://medium.com/@shivam.kaushik73/internship-experience-at-space-application-center-sac-isro-86a5576fb62)
 - [LDA vs PCA](https://github.com/mythrex/PCA-vs-LDA/blob/master/LDA.ipynb)
 - [OMR Scanner](https://github.com/mythrex/OMR-Scanner)
 
@@ -40,5 +44,5 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mythrex&layout=compact&theme=radical" />
 
 <a target="_vblank" href="https://github.com/mythrex">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mythrex&repo=mythrex.github.io&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mythrex&repo=OMR-Scanner&theme=radical" />
 </a>
