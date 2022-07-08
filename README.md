@@ -10,7 +10,7 @@
   <img target="_vblank" align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shivam Kaushik's DEV Profile" width="21px" style="margin-right: 10px;">
 </a>
 <a href="https://medium.com/@shivam.kaushik73">
-  <img target="_vblank" align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Medium Profile" width="21px" style="margin-right: 10px;">
+  <img target="_vblank" align="left" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670068.png?token=exp=1657303263~hmac=bb2aafaf2542130ef7764df44dacdf41" alt="Medium Profile" width="21px" style="margin-right: 10px;">
 </a>
 <!--  -->
 
