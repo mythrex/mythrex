@@ -4,7 +4,7 @@
   <img target="_vblank" align="left" alt="Shivam Kaushik | Github" width="21px" style="margin-right: 10px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 </a>
 <a href="https://www.linkedin.com/in/shivamkaushik73/">
-  <img target="_vblank" align="left" alt="Shivam Kaushik | LinkedIn" width="21px" style="margin-right: 10px;" src="<svg xmlns="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1657303012~hmac=9708f73c5ee710ce4d214d552c65f16e"/></svg>" />
+  <img target="_vblank" align="left" alt="Shivam Kaushik | LinkedIn" width="21px" style="margin-right: 10px;" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1657303215~hmac=b6a9a98b1e0b4f6b4966f61eddafd0a2" />
 </a>
 <a href="https://dev.to/mythrex">
   <img target="_vblank" align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shivam Kaushik's DEV Profile" width="21px" style="margin-right: 10px;">
