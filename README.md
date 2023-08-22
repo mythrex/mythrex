@@ -38,11 +38,3 @@ Hi, I'm Shivam Kaushik, a passionate self-taught Data Scientist.
 <code><img height="20" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"></code>
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats_
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mythrex&show_icons=true&include_all_commits=true&theme=radical" alt="Shivam's github stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mythrex&layout=compact&theme=radical" />
-
-<a target="_vblank" href="https://github.com/mythrex">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mythrex&repo=OMR-Scanner&theme=radical" />
-</a>
